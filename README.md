@@ -10,7 +10,6 @@ In this challenge, we ask you to build a predictive model that answers the quest
 I have used few of the Supervised Machine Learning Algorithms to predict the survival rate and got success rate for different algorithms as:
 
 
-Model	                       Score
 Random Forest:-	              86.76
 Decision Tree:-	              86.76
 KNN:-	                        84.62
