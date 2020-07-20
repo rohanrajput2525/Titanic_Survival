@@ -6,3 +6,17 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 In this challenge, we ask you to build a predictive model that answers the question: 
 “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+I have used few of the Supervised ML Algorithms to predict the survival rate and got success rate for different algorithms as:
+
+
+Model	                       Score
+Random Forest:-	              86.76
+Decision Tree:-	              86.76
+KNN:-	                        84.62
+Logistic Regression:-	        79.69
+Linear SVC:-	                78.79
+Support Vector Machines:-	    76.77
+Stochastic Gradient Decent:-	71.60
+Naive Bayes:-	                71.04
+Perceptron:- 	                66.22
